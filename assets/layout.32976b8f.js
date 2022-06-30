@@ -1,0 +1,2 @@
+import{a as r}from"./index.308dce99.js";import{H as s,a4 as c,k as e,O as o,P as p,ay as u,u as i,S as l}from"./vue.e587a6e4.js";import"./element-plus.99fc94f8.js";const g=s({__name:"layout",setup(m){const t=r();return(_,f)=>{const a=c("router-view");return e(),o(a,null,{default:p(({Component:n})=>[(e(),o(u,{include:i(t).getTagsKeep},[(e(),o(l(n)))],1032,["include"]))]),_:1})}}});export{g as default};
+//# sourceMappingURL=layout.32976b8f.js.map

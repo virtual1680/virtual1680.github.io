@@ -1,0 +1,2 @@
+import{h as t}from"./index.308dce99.js";import"./vue.e587a6e4.js";import"./element-plus.99fc94f8.js";let r="/";const i=e=>t.request({url:r+"/crud/list",method:"get",meta:{isSerialize:!0},params:e}),o=e=>t.delete(r+"/crud",{params:{id:e}}),d=e=>t.request({url:r+"/crud",method:"post",meta:{isSerialize:!0},data:e}),l=e=>t.request({url:r+"/crud",method:"put",meta:{isSerialize:!0},data:e});export{d as add,o as del,i as list,l as update};
+//# sourceMappingURL=index.965785b6.js.map

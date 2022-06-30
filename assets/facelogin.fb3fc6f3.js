@@ -1,0 +1,2 @@
+import n from"./main.4568ed4a.js";import{u,a as c}from"./index.308dce99.js";import{H as i,au as m,a0 as p,e as l,k as d,O as g}from"./vue.e587a6e4.js";import"./element-plus.99fc94f8.js";const T=i({__name:"facelogin",setup(f){const e=u(),o=c(),t=m(),s=p({username:"admin",password:"123456"}),r=l(()=>o.getTagWel);setTimeout(()=>{a()},6e3);const a=()=>{e.LoginByUsername(s).then(()=>{t.push(r.value)})};return(_,h)=>(d(),g(n,{ref:"video",width:350},null,512))}});export{T as default};
+//# sourceMappingURL=facelogin.fb3fc6f3.js.map
