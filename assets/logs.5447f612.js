@@ -1,2 +1,0 @@
-import{H as a,a4 as e,k as s,O as c,P as o,X as r,m as _,V as l}from"./vue.e587a6e4.js";const d=_("h3",null,"\u8BF7\u6253\u5F00\u6D4F\u89C8\u5668\u63A7\u5236\u53F0\uFF0C\u7136\u540E\u70B9\u51FB\u4E0B\u9762\u7684\u6309\u94AE",-1),i=l("\u89E6\u53D1\u4E00\u4E2A\u9519\u8BEF"),F=a({__name:"logs",setup(p){const t=()=>{new Error("a is not defined")};return(m,E)=>{const n=e("el-button"),u=e("basic-container");return s(),c(u,null,{default:o(()=>[d,r(n,{type:"danger",onClick:t},{default:o(()=>[i]),_:1})]),_:1})}}});export{F as default};
-//# sourceMappingURL=logs.5447f612.js.map
