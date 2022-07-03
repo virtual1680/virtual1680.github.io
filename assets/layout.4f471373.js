@@ -1,2 +1,0 @@
-import{a as e}from"./index.1b0b7b73.js";const o=Vue.defineComponent({__name:"layout",setup(o){const n=e();return(e,o)=>{const u=Vue.resolveComponent("router-view");return Vue.openBlock(),Vue.createBlock(u,null,{default:Vue.withCtx((({Component:e})=>[(Vue.openBlock(),Vue.createBlock(Vue.KeepAlive,{include:Vue.unref(n).getTagsKeep},[(Vue.openBlock(),Vue.createBlock(Vue.resolveDynamicComponent(e)))],1032,["include"]))])),_:1})}}});export{o as default};
-//# sourceMappingURL=layout.4f471373.js.map
