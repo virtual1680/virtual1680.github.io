@@ -1,0 +1,1 @@
+{"version":3,"file":"index.830cffed.js","sources":["../../src/views/system/menu/index.vue"],"sourcesContent":["<template>\n\t<div>菜单</div>\n</template>\n<script setup lang=\"ts\">\nimport { onMounted } from 'vue';\nonMounted(() => {\n\tconsole.log('我加载了....');\n});\n</script>\n"],"names":["Vue","onMounted"],"mappings":"sDAKAA,IAAAC,WAAA"}
