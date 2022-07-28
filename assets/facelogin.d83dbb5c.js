@@ -1,2 +1,0 @@
-import e from"./main.de68449a.js";import{u as o,a as t}from"./index.9ee08915.js";const u=Vue.defineComponent({__name:"facelogin",setup(u){const n=o(),a=t(),s=VueRouter.useRouter(),r=Vue.reactive({username:"admin",password:"123456"}),i=Vue.computed((()=>a.getTagWel));setTimeout((()=>{m()}),6e3);const m=()=>{n.LoginByUsername(r).then((()=>{s.push(i.value)}))};return(o,t)=>(Vue.openBlock(),Vue.createBlock(e,{ref:"video",width:350},null,512))}});export{u as default};
-//# sourceMappingURL=facelogin.d83dbb5c.js.map

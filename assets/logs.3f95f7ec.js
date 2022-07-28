@@ -1,2 +1,0 @@
-const e=Vue.createElementVNode("h3",null,"请打开浏览器控制台，然后点击下面的按钮",-1),t=Vue.createTextVNode("触发一个错误"),n=Vue.defineComponent({__name:"logs",setup(n){const o=()=>{new Error("a is not defined")};return(n,u)=>{const r=Vue.resolveComponent("el-button"),l=Vue.resolveComponent("basic-container");return Vue.openBlock(),Vue.createBlock(l,null,{default:Vue.withCtx((()=>[e,Vue.createVNode(r,{type:"danger",onClick:o},{default:Vue.withCtx((()=>[t])),_:1})])),_:1})}}});export{n as default};
-//# sourceMappingURL=logs.3f95f7ec.js.map
