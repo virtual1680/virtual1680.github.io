@@ -1,3 +1,0 @@
-import{_ as m,r as c,o as p,c as i,a as r,w as a,b as e,V as f}from"./app.75dfeaf0.js";const h={name:"component-doc",components:{"render-demo-0":function(){const{openBlock:o,createElementBlock:n}=f;function t(d,l){return o(),n("div")}return{render:t,...{}}}()}},g='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/form/function.md","lastUpdated":null}',k=e("blockquote",null,[e("p",null,"\u51FD\u6570\u7528\u6CD5")],-1),v=e("div",{class:"language-vue"},[e("pre",null,[e("code",null,`
-`)])],-1);function x(o,n,t,s,d,l){const _=c("render-demo-0"),u=c("demo");return p(),i("div",null,[k,r(u,{sourceCode:`
-`},{highlight:a(()=>[v]),default:a(()=>[r(_)]),_:1})])}var E=m(h,[["render",x]]);export{g as __pageData,E as default};

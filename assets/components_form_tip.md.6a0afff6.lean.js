@@ -1,3 +1,0 @@
-import{_ as m,r as c,o as u,c as i,a as r,w as a,b as e,V as f}from"./app.75dfeaf0.js";const h={name:"component-doc",components:{"render-demo-0":function(){const{openBlock:o,createElementBlock:t}=f;function n(d,l){return o(),t("div")}return{render:n,...{}}}()}},E='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/form/tip.md","lastUpdated":null}',B=e("blockquote",null,[e("p",null,"\u8F85\u52A9\u63D0\u793A\u8BED")],-1),k=e("div",{class:"language-vue"},[e("pre",null,[e("code",null,`
-`)])],-1);function v(o,t,n,s,d,l){const p=c("render-demo-0"),_=c("demo");return u(),i("div",null,[B,r(_,{sourceCode:`
-`},{highlight:a(()=>[k]),default:a(()=>[r(p)]),_:1})])}var g=m(h,[["render",v]]);export{E as __pageData,g as default};
