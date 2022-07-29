@@ -1,0 +1,1 @@
+import{_ as a,r as t,o,c as r,a as n}from"./app.c086cfa3.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/params/index.md","lastUpdated":1659029761000}',s={};function c(p,_,d,m,i,l){const e=t("params-vue");return o(),r("div",null,[n(e)])}var v=a(s,[["render",c]]);export{u as __pageData,v as default};
